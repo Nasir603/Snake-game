@@ -15,12 +15,11 @@ Welcome to my Snake Game! 🐍🎮
 
 * 🎮 **Game Controls:**
   * Arrow Keys (Up, Down, Left, Right) to control the Snake
-  * Try to beat your high score!
 
 ## What's Coming Next?  
 I’m actively working on adding more cool features to this game:
 * 💯 Store the highest score and keep track of it between sessions
-* 🤖 Develop an algorithm that controls the Snake to maximize its length!
+* 🤖 Develop an algorithm that controls the Snake to its maximum length!
 
 Stay tuned for updates, and feel free to contribute if you're interested in adding more fun features!
 
